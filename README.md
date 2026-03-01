@@ -1,8 +1,7 @@
-# python-100-projects
-
-# 🐍 Python Learning Projects – Udemy Course
+# python-100-project
 
 This repository contains my Python practice projects created while learning through the
+
 **Python Developer: Beginner to Professional** Udemy course.
 
 I am currently learning Python, and these projects represent my hands-on practice and progress as I build programming skills step by step.
@@ -40,18 +39,18 @@ Examples include:
 
 # 🛠 Technologies Used
 
-Python
-Standard Python libraries
-File handling (text/CSV)
-Basic OOP concepts
+* Python.
+* Standard Python libraries.
+* File handling (text/CSV).
+* Basic OOP concepts.
 
 # 🎯 Purpose
 
-To learn Python through practice
-To improve programming logic
-To track my learning journey
-To build my GitHub portfolio as a beginner
-To prepare for software/embedded development roles
+* To learn Python through practice.
+* To improve programming logic.
+* To track my learning jouney.
+* To build my GitHub portfolio as a beginner.
+* To prepare for software/embedded development roles.
 
 # 📌 Note
 
